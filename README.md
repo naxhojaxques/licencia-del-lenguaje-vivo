@@ -36,8 +36,8 @@ Verificación en Safe Creative: [www.safecreative.org/work/2505061668094](https:
 
 - `LICENCIA-VIVA.md`: texto completo en formato editable.
 - `MANIFIESTO.md`: manifiesto fundacional que acompaña a la licencia.
-- Carpeta `VERSIONES/`: versiones oficiales en PDF, con sellado de tiempo.
-- Carpeta `ARCHIVO-VIVO/`: espacio abierto para tecnologías, ideas y comunidad.
+- Carpeta `versiones-anteriores/`: versiones oficiales en PDF, con sellado de tiempo.
+- Carpeta `archivo-vivo/`: espacio abierto para tecnologías, ideas y comunidad.
 - Carpeta `METADATOS/`: datos del registro y guía de uso ético y legal.
 
 ---
