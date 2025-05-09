@@ -39,7 +39,7 @@ Verificación en Safe Creative: [www.safecreative.org/work/2505061668094](https:
 - Carpeta `versiones-anteriores/`: versiones oficiales en PDF, con sellado de tiempo.
 - Carpeta `archivo-vivo/`: espacio abierto para tecnologías, ideas y comunidad.
 - Carpeta `METADATOS/`: datos del registro y guía de uso ético y legal.
-- INTERFAZ-LATETE.md: archivo simbólico para almacenar fragmentos, ideas emergentes y conceptos en estado latente, esperando ser articulados en el futuro.
+- `INTERFAZ-LATETE.md`: archivo simbólico para almacenar fragmentos, ideas emergentes y conceptos en estado latente, esperando ser articulados en el futuro.
 
 ---
 
