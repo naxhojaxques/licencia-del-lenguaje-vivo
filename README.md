@@ -36,10 +36,25 @@ Verificación en Safe Creative: [www.safecreative.org/work/2505061668094](https:
 
 - `LICENCIA-VIVA.md`: texto completo en formato editable.
 - `MANIFIESTO.md`: manifiesto fundacional que acompaña a la licencia.
-- Carpeta `versiones-anteriores/`: versiones oficiales en PDF, con sellado de tiempo.
+- Carpeta `versiones-anteriores/`: versiones oficiales en PDF, con portada y cierre visual.  
+  - [LICENCIA-VIVA_FINAL_CON_PORTADA.pdf](versiones-anteriores/LICENCIA-VIVA_FINAL_CON_PORTADA.pdf)  
+  - [MANIFIESTO_FINAL_CON_PORTADAS.pdf](versiones-anteriores/MANIFIESTO_FINAL_CON_PORTADAS.pdf)
 - Carpeta `archivo-vivo/`: espacio abierto para tecnologías, ideas y comunidad.
 - Carpeta `METADATOS/`: datos del registro y guía de uso ético y legal.
-- `INTERFAZ-LATETE.md`: archivo simbólico para almacenar fragmentos, ideas emergentes y conceptos en estado latente, esperando ser articulados en el futuro.
+- `INTERFAZ-LATENTE.md`: archivo simbólico para almacenar fragmentos, ideas emergentes y conceptos en estado latente, esperando ser articulados en el futuro.
+
+---
+
+## Registros asociados
+
+### 🧾 Licencia del Lenguaje Vivo
+- Registro en Safe Creative: `2505061668094`
+
+### 🔥 Manifiesto del Lenguaje Vivo
+- Registro en Safe Creative: `2505161762760`
+
+> El manifiesto es un texto ético y poético que expresa la visión profunda del proyecto Tékhne Sílaba.  
+> No impone reglas: abre caminos. No se firma con tinta: se honra con actos.
 
 ---
 
@@ -64,6 +79,11 @@ Una semilla que puedes cuidar, adaptar o nutrir. Si deseas colaborar, traducir o
 
 Para dudas, colaboración o integración de esta licencia en tu práctica:  
 **ignacio@tekhnesilaba.org** 
+
+---
+
+**Tékhne Sílaba — Tecnologías que hablan con alma**  
+Mayo de 2025
 
 ---
 
