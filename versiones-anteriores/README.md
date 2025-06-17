@@ -17,3 +17,8 @@ A la fecha, esta carpeta contiene la **primera versión oficial registrada** de 
   Código de registro Safe Creative: `2505161762760`
 
 ---
+
+> ⚠️ Nota: GitHub podría no mostrar la vista previa de estos archivos PDF en línea.  
+> Se recomienda descargarlos para verlos correctamente.
+
+---
