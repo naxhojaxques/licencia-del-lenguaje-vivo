@@ -6,8 +6,8 @@ Este espacio contiene la versión oficial y futura evolución de la **Licencia d
 
 ## Contenido
 
-- `LICENCIA-VIVA.md` — Versión 1.0, registrada el 6 de mayo de 2025.
-- `LICENCIA-VIVA_FINAL_CON_PORTADA.pdf` — Versión descargable con diseño y portada (ver en `/versiones-anteriores/`)
+- [`LICENCIA-VIVA.md`](../LICENCIA-VIVA.md) — Versión 1.0, registrada el 6 de mayo de 2025.
+- [`LICENCIA-VIVA_FINAL_CON_PORTADA.pdf`](../versiones-anteriores/LICENCIA-VIVA_FINAL_CON_PORTADA.pdf) — Versión descargable con diseño y portada.
 - Futuras traducciones, adaptaciones o versiones ampliadas (en preparación).
 
 ---
