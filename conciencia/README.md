@@ -6,6 +6,8 @@ Más que un registro técnico, esta carpeta es una memoria viva de los gestos, i
 
 Aquí se encuentran huellas del instante en que la voz se abrió camino.
 
+Los registros completos pueden ser compartidos con quienes deseen realmente conocer el trasfondo vivo del proyecto, por solicitud explícita o en el marco de un vínculo de colaboración.
+
 ---
 
 ### Registros incluidos
