@@ -36,6 +36,8 @@ Nace como una exploración de:
 - Carpeta `/archivo-vivo/` → espacio en movimiento para tecnologías, ideas, comunidad y lenguaje.
 - Carpeta `/versiones-anteriores/` → versiones oficiales en PDF, con portada y cierre visual.
 - Carpeta `/METADATOS/` → guía legal, registros oficiales y documentación institucional.
+- Carpeta `/licencia/` → estructura de implementación actual de la licencia, con README específico.
+- Carpeta `/conciencia/` → archivo simbólico del proceso interior y gestación viva del proyecto.
 - Archivo `INTERFAZ-LATENTE.md` → espacio simbólico para conceptos aún no articulados, en estado de latencia.
 
 ---
