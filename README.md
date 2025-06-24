@@ -39,6 +39,7 @@ Nace como una exploración de:
 - Carpeta `/licencia/` → estructura de implementación actual de la licencia, con README específico.
 - Carpeta `/conciencia/` → archivo simbólico del proceso interior y gestación viva del proyecto.
 - Archivo `INTERFAZ-LATENTE.md` → espacio simbólico para conceptos aún no articulados, en estado de latencia.
+- Carpeta `/relator/` → espacio simbólico del *Vigilante Silábico*, figura que acompaña el desarrollo ético y simbólico del proyecto con informes reflexivos y memoria activa.
 
 ---
 
