@@ -4,7 +4,7 @@
 
 ---
 
-## 🌱 ¿Qué es esto? 
+## 🌱 ¿Qué es esto?
 
 La *Licencia del Lenguaje Vivo* no es una licencia técnica tradicional.  
 Es una herramienta simbólica, legal y ética que protege obras, tecnologías y creaciones que emergen desde una conciencia viva, una práctica del cuidado y una voluntad de regeneración.
